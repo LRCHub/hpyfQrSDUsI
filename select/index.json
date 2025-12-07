@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "雨、キミを連れて",
+  "base_artist": "EGOIST",
+  "createdAt": "2025-12-07T14:05:42.025020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨、キミを連れて",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/01_雨、キミを連れて_EGOIST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨、キミを連れて",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_雨、キミを連れて_EGOIST.txt"
+    }
+  ]
+}
